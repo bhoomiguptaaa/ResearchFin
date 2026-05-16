@@ -1,10 +1,3 @@
-/*
-   ResearchFin — app.js
-   Project : Strategies for Overcoming Financial Constraints
-   College  : Manipal University Jaipur 
-   Author  : Bhoomi Gupta
-*/
-
 /* 
    STATE VARIABLES
  */
