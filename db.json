@@ -4,15 +4,14 @@
     "university": "Manipal University Jaipur",
     "department": "Artificial Intelligence and Machine Learning",
     "author": "Bhoomi Gupta",
-    "registration": "23FE10CAI00515",
+    "registration": "CT978234768",
     "version": "1.0.0"
   },
-
   "users": [
     {
       "id": "u001",
       "name": "Bhoomi Gupta",
-      "reg_id": "23FE10CAI00515",
+      "reg_id": "CT978234768",
       "department": "Artificial Intelligence and Machine Learning",
       "role": "Student",
       "role_icon": "🎓",
@@ -21,7 +20,6 @@
       "cases_opened": []
     }
   ],
-
   "funding_sources": [
     {
       "id": "f001",
@@ -35,7 +33,12 @@
       "range_display": "₹3,000 – ₹15,000",
       "support_type": "Cash or Material",
       "how_to_apply": "Submit a short proposal with project title, objectives, expected outcomes, budget breakup, and faculty mentor endorsement to your HoD.",
-      "tags": ["institutional", "cash", "material", "micro-grant"]
+      "tags": [
+        "institutional",
+        "cash",
+        "material",
+        "micro-grant"
+      ]
     },
     {
       "id": "f002",
@@ -49,7 +52,12 @@
       "range_display": "₹5,000 – ₹25,000",
       "support_type": "Seed Funding",
       "how_to_apply": "Participate in internal hackathons and pitch events. A prototype or MVP concept is preferred.",
-      "tags": ["institutional", "seed", "startup", "prototype"]
+      "tags": [
+        "institutional",
+        "seed",
+        "startup",
+        "prototype"
+      ]
     },
     {
       "id": "f003",
@@ -63,7 +71,12 @@
       "range_display": "₹2,000 – ₹10,000",
       "support_type": "Cash",
       "how_to_apply": "Apply through your faculty mentor's recommendation. Submit a one-page project summary to the Dean's office.",
-      "tags": ["institutional", "cash", "dean", "seed"]
+      "tags": [
+        "institutional",
+        "cash",
+        "dean",
+        "seed"
+      ]
     },
     {
       "id": "f004",
@@ -77,7 +90,12 @@
       "range_display": "Lab & Equipment Access",
       "support_type": "In-kind",
       "how_to_apply": "Approach faculty running active research projects to join as a student collaborator and share lab resources at no cost.",
-      "tags": ["institutional", "in-kind", "lab", "equipment"]
+      "tags": [
+        "institutional",
+        "in-kind",
+        "lab",
+        "equipment"
+      ]
     },
     {
       "id": "f005",
@@ -92,7 +110,13 @@
       "support_type": "Cash / Equipment",
       "how_to_apply": "Apply via AICTE portal (aicte-india.org). Requires faculty endorsement, project report, and official college letter.",
       "portal_url": "https://aicte-india.org",
-      "tags": ["government", "AICTE", "innovation", "cash", "equipment"]
+      "tags": [
+        "government",
+        "AICTE",
+        "innovation",
+        "cash",
+        "equipment"
+      ]
     },
     {
       "id": "f006",
@@ -107,7 +131,13 @@
       "support_type": "Cash",
       "how_to_apply": "Submit through DST-INSPIRE or SERB portal with affiliation letter and a structured research proposal.",
       "portal_url": "https://dst.gov.in",
-      "tags": ["government", "DST", "INSPIRE", "SERB", "cash"]
+      "tags": [
+        "government",
+        "DST",
+        "INSPIRE",
+        "SERB",
+        "cash"
+      ]
     },
     {
       "id": "f007",
@@ -122,7 +152,12 @@
       "support_type": "Cash",
       "how_to_apply": "Apply through the UGC portal under the undergraduate research scheme. A faculty co-PI is recommended.",
       "portal_url": "https://ugc.ac.in",
-      "tags": ["government", "UGC", "research", "cash"]
+      "tags": [
+        "government",
+        "UGC",
+        "research",
+        "cash"
+      ]
     },
     {
       "id": "f008",
@@ -137,7 +172,13 @@
       "support_type": "Cash + Mentorship",
       "how_to_apply": "Submit innovative ideas with social or commercial impact to the NIF IGNITE competition at nif.org.in.",
       "portal_url": "https://nif.org.in",
-      "tags": ["government", "NIF", "IGNITE", "innovation", "award"]
+      "tags": [
+        "government",
+        "NIF",
+        "IGNITE",
+        "innovation",
+        "award"
+      ]
     },
     {
       "id": "f009",
@@ -152,7 +193,12 @@
       "support_type": "Cash",
       "how_to_apply": "Register at scholarships.gov.in. Multiple project-based aid schemes are available for B.Tech students.",
       "portal_url": "https://scholarships.gov.in",
-      "tags": ["government", "NSP", "scholarship", "cash"]
+      "tags": [
+        "government",
+        "NSP",
+        "scholarship",
+        "cash"
+      ]
     },
     {
       "id": "f010",
@@ -166,7 +212,13 @@
       "range_display": "₹5,000 – ₹25,000",
       "support_type": "In-kind / Reimbursement",
       "how_to_apply": "Submit a project proposal via the Infosys Foundation website. Social-impact projects are preferred.",
-      "tags": ["ngo", "CSR", "Infosys", "in-kind", "reimbursement"]
+      "tags": [
+        "ngo",
+        "CSR",
+        "Infosys",
+        "in-kind",
+        "reimbursement"
+      ]
     },
     {
       "id": "f011",
@@ -180,7 +232,12 @@
       "range_display": "₹3,000 – ₹15,000",
       "support_type": "In-kind",
       "how_to_apply": "Contact your nearest Rotary Club with a social-impact research proposal and a faculty support letter.",
-      "tags": ["ngo", "Rotary", "social", "in-kind"]
+      "tags": [
+        "ngo",
+        "Rotary",
+        "social",
+        "in-kind"
+      ]
     },
     {
       "id": "f012",
@@ -194,7 +251,12 @@
       "range_display": "₹5,000 – ₹30,000",
       "support_type": "Cash / Mentorship",
       "how_to_apply": "Apply through the CII Young Indians (Yi) chapter. Engineering and sustainability projects are preferred.",
-      "tags": ["ngo", "CII", "engineering", "sustainability"]
+      "tags": [
+        "ngo",
+        "CII",
+        "engineering",
+        "sustainability"
+      ]
     },
     {
       "id": "f013",
@@ -208,7 +270,13 @@
       "range_display": "Variable – Donations / Discounts",
       "support_type": "Material / Discounts",
       "how_to_apply": "Email vendors explaining your project. Mention 'student research project' — many donate components or give educational discounts.",
-      "tags": ["industry", "vendor", "donation", "material", "discount"]
+      "tags": [
+        "industry",
+        "vendor",
+        "donation",
+        "material",
+        "discount"
+      ]
     },
     {
       "id": "f014",
@@ -222,7 +290,12 @@
       "range_display": "₹2,000 – ₹10,000",
       "support_type": "Cash / Mentorship",
       "how_to_apply": "Reach out via LinkedIn or your Alumni Association portal. Share a clear one-pager with project impact and deliverables.",
-      "tags": ["industry", "alumni", "sponsorship", "mentorship"]
+      "tags": [
+        "industry",
+        "alumni",
+        "sponsorship",
+        "mentorship"
+      ]
     },
     {
       "id": "f015",
@@ -236,7 +309,12 @@
       "range_display": "Stipend + Materials",
       "support_type": "Cash + Lab Access",
       "how_to_apply": "Apply for research internships on Internshala or LinkedIn. Some companies fund student projects aligned with their R&D goals.",
-      "tags": ["industry", "internship", "stipend", "startup"]
+      "tags": [
+        "industry",
+        "internship",
+        "stipend",
+        "startup"
+      ]
     },
     {
       "id": "f016",
@@ -251,7 +329,13 @@
       "support_type": "Prize + Incubation",
       "how_to_apply": "Form a team of 6 students, register on sih.gov.in, and solve problem statements from government departments.",
       "portal_url": "https://sih.gov.in",
-      "tags": ["competition", "hackathon", "SIH", "government", "prize"]
+      "tags": [
+        "competition",
+        "hackathon",
+        "SIH",
+        "government",
+        "prize"
+      ]
     },
     {
       "id": "f017",
@@ -266,7 +350,12 @@
       "support_type": "Prize Money",
       "how_to_apply": "Register on devfolio.co or hackerearth.com. Many hackathons also reimburse project material costs.",
       "portal_url": "https://devfolio.co",
-      "tags": ["competition", "hackathon", "online", "prize"]
+      "tags": [
+        "competition",
+        "hackathon",
+        "online",
+        "prize"
+      ]
     },
     {
       "id": "f018",
@@ -280,7 +369,13 @@
       "range_display": "₹3,000 – ₹20,000",
       "support_type": "Cash + Publication",
       "how_to_apply": "Submit your research paper to an IEEE conference student track. Many reimburse registration and travel costs.",
-      "tags": ["competition", "IEEE", "paper", "publication", "award"]
+      "tags": [
+        "competition",
+        "IEEE",
+        "paper",
+        "publication",
+        "award"
+      ]
     },
     {
       "id": "f019",
@@ -295,7 +390,13 @@
       "support_type": "Prize + Prototyping Support",
       "how_to_apply": "Register on yukti.aicte-india.org. Submit innovative project ideas for evaluation and potential funding.",
       "portal_url": "https://yukti.aicte-india.org",
-      "tags": ["competition", "AICTE", "innovation", "prize", "prototype"]
+      "tags": [
+        "competition",
+        "AICTE",
+        "innovation",
+        "prize",
+        "prototype"
+      ]
     },
     {
       "id": "f020",
@@ -309,10 +410,15 @@
       "range_display": "₹5,000 – ₹50,000",
       "support_type": "Prize Money",
       "how_to_apply": "Register online for project competitions at major techfests. Many also offer free lab and equipment access.",
-      "tags": ["competition", "techfest", "IIT", "NIT", "prize"]
+      "tags": [
+        "competition",
+        "techfest",
+        "IIT",
+        "NIT",
+        "prize"
+      ]
     }
   ],
-
   "free_tools": [
     {
       "id": "t001",
@@ -323,7 +429,13 @@
       "description": "Full scientific computing, data analysis, AI/ML. Unlimited free libraries via pip.",
       "savings_percent": 90,
       "download_url": "https://python.org",
-      "tags": ["python", "data analysis", "AI", "ML", "scientific computing"]
+      "tags": [
+        "python",
+        "data analysis",
+        "AI",
+        "ML",
+        "scientific computing"
+      ]
     },
     {
       "id": "t002",
@@ -334,7 +446,12 @@
       "description": "Statistical analysis and data visualization. Ideal for surveys and social research.",
       "savings_percent": 85,
       "download_url": "https://r-project.org",
-      "tags": ["R", "statistics", "data visualization", "survey"]
+      "tags": [
+        "R",
+        "statistics",
+        "data visualization",
+        "survey"
+      ]
     },
     {
       "id": "t003",
@@ -345,7 +462,12 @@
       "description": "Open-source MATLAB-compatible environment for numerical computing.",
       "savings_percent": 90,
       "download_url": "https://octave.org",
-      "tags": ["Octave", "MATLAB", "numerical", "computing"]
+      "tags": [
+        "Octave",
+        "MATLAB",
+        "numerical",
+        "computing"
+      ]
     },
     {
       "id": "t004",
@@ -356,7 +478,14 @@
       "description": "Free GPU/TPU compute for AI/ML. No installation needed. Used in Case Study 2.",
       "savings_percent": 100,
       "download_url": "https://colab.research.google.com",
-      "tags": ["Colab", "GPU", "cloud", "AI", "ML", "free"]
+      "tags": [
+        "Colab",
+        "GPU",
+        "cloud",
+        "AI",
+        "ML",
+        "free"
+      ]
     },
     {
       "id": "t005",
@@ -367,7 +496,13 @@
       "description": "3D parametric CAD modeler for mechanical and structural design. Used in Case Study 4.",
       "savings_percent": 90,
       "download_url": "https://freecad.org",
-      "tags": ["FreeCAD", "CAD", "3D", "mechanical", "design"]
+      "tags": [
+        "FreeCAD",
+        "CAD",
+        "3D",
+        "mechanical",
+        "design"
+      ]
     },
     {
       "id": "t006",
@@ -378,7 +513,12 @@
       "description": "Professional PCB design and circuit schematic tool — completely free.",
       "savings_percent": 85,
       "download_url": "https://kicad.org",
-      "tags": ["KiCad", "PCB", "circuit", "electronics"]
+      "tags": [
+        "KiCad",
+        "PCB",
+        "circuit",
+        "electronics"
+      ]
     },
     {
       "id": "t007",
@@ -389,7 +529,13 @@
       "description": "FEM simulation and structural analysis. Saved ₹6,000 in Case Study 4.",
       "savings_percent": 90,
       "download_url": "http://calculix.de",
-      "tags": ["CalculiX", "FEM", "simulation", "structural", "ANSYS"]
+      "tags": [
+        "CalculiX",
+        "FEM",
+        "simulation",
+        "structural",
+        "ANSYS"
+      ]
     },
     {
       "id": "t008",
@@ -400,7 +546,13 @@
       "description": "Full-featured GIS and spatial analysis for geography-based research.",
       "savings_percent": 90,
       "download_url": "https://qgis.org",
-      "tags": ["QGIS", "GIS", "spatial", "geography", "maps"]
+      "tags": [
+        "QGIS",
+        "GIS",
+        "spatial",
+        "geography",
+        "maps"
+      ]
     },
     {
       "id": "t009",
@@ -411,7 +563,13 @@
       "description": "Mobile field data collection. Used in Case Study 3 — 200 households surveyed at ₹0.",
       "savings_percent": 100,
       "download_url": "https://kobotoolbox.org",
-      "tags": ["KoBoToolbox", "survey", "field", "data collection", "mobile"]
+      "tags": [
+        "KoBoToolbox",
+        "survey",
+        "field",
+        "data collection",
+        "mobile"
+      ]
     },
     {
       "id": "t010",
@@ -422,7 +580,13 @@
       "description": "Thousands of free datasets for AI/ML, health, finance, social research.",
       "savings_percent": 100,
       "download_url": "https://kaggle.com/datasets",
-      "tags": ["Kaggle", "dataset", "AI", "ML", "open data"]
+      "tags": [
+        "Kaggle",
+        "dataset",
+        "AI",
+        "ML",
+        "open data"
+      ]
     },
     {
       "id": "t011",
@@ -433,7 +597,13 @@
       "description": "Open Indian government data across agriculture, health, economy, and education.",
       "savings_percent": 100,
       "download_url": "https://data.gov.in",
-      "tags": ["India", "government", "open data", "agriculture", "health"]
+      "tags": [
+        "India",
+        "government",
+        "open data",
+        "agriculture",
+        "health"
+      ]
     },
     {
       "id": "t012",
@@ -444,7 +614,13 @@
       "description": "Global health, economics, and development data — freely downloadable.",
       "savings_percent": 100,
       "download_url": "https://data.worldbank.org",
-      "tags": ["WHO", "World Bank", "global", "health", "economics"]
+      "tags": [
+        "WHO",
+        "World Bank",
+        "global",
+        "health",
+        "economics"
+      ]
     },
     {
       "id": "t013",
@@ -455,7 +631,14 @@
       "description": "Pre-trained NLP/CV models, free datasets, and deployment tools. Used in Case Study 2.",
       "savings_percent": 90,
       "download_url": "https://huggingface.co",
-      "tags": ["Hugging Face", "NLP", "CV", "AI", "models", "transformers"]
+      "tags": [
+        "Hugging Face",
+        "NLP",
+        "CV",
+        "AI",
+        "models",
+        "transformers"
+      ]
     },
     {
       "id": "t014",
@@ -466,7 +649,13 @@
       "description": "Industry-standard deep learning frameworks — completely free and open-source.",
       "savings_percent": 100,
       "download_url": "https://tensorflow.org",
-      "tags": ["TensorFlow", "PyTorch", "deep learning", "neural network", "AI"]
+      "tags": [
+        "TensorFlow",
+        "PyTorch",
+        "deep learning",
+        "neural network",
+        "AI"
+      ]
     },
     {
       "id": "t015",
@@ -477,7 +666,13 @@
       "description": "Classical ML algorithms for classification, regression, and clustering in Python.",
       "savings_percent": 90,
       "download_url": "https://scikit-learn.org",
-      "tags": ["scikit-learn", "ML", "classification", "regression", "clustering"]
+      "tags": [
+        "scikit-learn",
+        "ML",
+        "classification",
+        "regression",
+        "clustering"
+      ]
     },
     {
       "id": "t016",
@@ -488,7 +683,13 @@
       "description": "Professional research paper typesetting. Overleaf free tier supports collaboration.",
       "savings_percent": 80,
       "download_url": "https://overleaf.com",
-      "tags": ["LaTeX", "Overleaf", "writing", "typesetting", "research paper"]
+      "tags": [
+        "LaTeX",
+        "Overleaf",
+        "writing",
+        "typesetting",
+        "research paper"
+      ]
     },
     {
       "id": "t017",
@@ -499,7 +700,12 @@
       "description": "Free reference manager and citation tool with a browser extension.",
       "savings_percent": 85,
       "download_url": "https://zotero.org",
-      "tags": ["Zotero", "citation", "references", "bibliography"]
+      "tags": [
+        "Zotero",
+        "citation",
+        "references",
+        "bibliography"
+      ]
     },
     {
       "id": "t018",
@@ -510,7 +716,12 @@
       "description": "Free instant publication for CS, Physics, Maths, and EE research papers.",
       "savings_percent": 100,
       "download_url": "https://arxiv.org",
-      "tags": ["arXiv", "publication", "preprint", "open access"]
+      "tags": [
+        "arXiv",
+        "publication",
+        "preprint",
+        "open access"
+      ]
     },
     {
       "id": "t019",
@@ -521,7 +732,13 @@
       "description": "Low-cost open-source microcontrollers for IoT and embedded projects. Used in Case Study 1.",
       "savings_percent": 70,
       "download_url": "https://arduino.cc",
-      "tags": ["Arduino", "ESP32", "IoT", "embedded", "microcontroller"]
+      "tags": [
+        "Arduino",
+        "ESP32",
+        "IoT",
+        "embedded",
+        "microcontroller"
+      ]
     },
     {
       "id": "t020",
@@ -532,7 +749,12 @@
       "description": "Single-board computer for edge AI, computer vision, and advanced prototyping.",
       "savings_percent": 60,
       "download_url": "https://raspberrypi.org",
-      "tags": ["Raspberry Pi", "SBC", "edge AI", "computer vision"]
+      "tags": [
+        "Raspberry Pi",
+        "SBC",
+        "edge AI",
+        "computer vision"
+      ]
     },
     {
       "id": "t021",
@@ -543,10 +765,15 @@
       "description": "3D-printable laboratory-grade microscope for biology and materials science research.",
       "savings_percent": 80,
       "download_url": "https://openflexure.org",
-      "tags": ["OpenFlexure", "microscope", "biology", "3D print", "lab"]
+      "tags": [
+        "OpenFlexure",
+        "microscope",
+        "biology",
+        "3D print",
+        "lab"
+      ]
     }
   ],
-
   "case_studies": [
     {
       "id": "c001",
@@ -664,14 +891,12 @@
       "key_takeaway": "Interdisciplinary collaboration reduces duplication and enables ambitious projects on shared budgets."
     }
   ],
-
   "strategies": [
     {
       "id": "s001",
       "icon": "💰",
       "color": "#2563eb",
       "title": "Financial Planning & Budgeting",
-      "chapter_ref": "Section 3.2",
       "items": [
         "Create a budget covering Direct, Indirect, and Hidden costs",
         "Track every expense on a shared Google Sheet each week",
@@ -684,7 +909,6 @@
       "icon": "🏫",
       "color": "#0891b2",
       "title": "Institutional Support & Funding",
-      "chapter_ref": "Section 3.3",
       "items": [
         "Apply for departmental micro-grants (₹3,000–₹15,000)",
         "Collaborate with faculty projects to access lab resources free",
@@ -697,7 +921,6 @@
       "icon": "🌐",
       "color": "#059669",
       "title": "Open-Source & Free Tools Adoption",
-      "chapter_ref": "Section 3.5",
       "items": [
         "Replace MATLAB with Python or Octave and save ₹8,000+",
         "Use FreeCAD and CalculiX instead of SolidWorks and ANSYS",
@@ -710,7 +933,6 @@
       "icon": "🤝",
       "color": "#d97706",
       "title": "Collaboration & Resource Sharing",
-      "chapter_ref": "Section 3.6",
       "items": [
         "Share lab consumables and testing equipment time with peers",
         "Collaborate across departments to pool different skills and tools",
@@ -723,7 +945,6 @@
       "icon": "📐",
       "color": "#7c3aed",
       "title": "Lean Research Design",
-      "chapter_ref": "Section 3.8",
       "items": [
         "Build prototypes in phases: Paper → CAD → 3D Print → CNC",
         "Use Taguchi and DoE methods to reduce total experiment trials",
@@ -736,7 +957,6 @@
       "icon": "🏆",
       "color": "#dc2626",
       "title": "Competitions & External Funding",
-      "chapter_ref": "Section 3.4",
       "items": [
         "Apply to hackathons — many reimburse project material costs",
         "Submit to Smart India Hackathon for prizes of ₹1L and above",
@@ -745,66 +965,173 @@
       ]
     }
   ],
-
   "cost_optimization_framework": [
-    { "strategy": "Open Source Tools",      "area": "Software / Compute",    "savings_min": 70, "savings_max": 90, "example": "Python instead of MATLAB"         },
-    { "strategy": "Institutional Mini-Grant", "area": "Hardware",            "savings_min": 50, "savings_max": 50, "example": "Partial component funding"          },
-    { "strategy": "Peer Collaboration",     "area": "Testing & Analysis",    "savings_min": 40, "savings_max": 40, "example": "Shared lab time"                   },
-    { "strategy": "Vendor Partnership",     "area": "Components",            "savings_min": 30, "savings_max": 30, "example": "Donated or discounted parts"       },
-    { "strategy": "Lean Design (DoE)",      "area": "Experimentation",       "savings_min": 20, "savings_max": 20, "example": "Fewer runs via Taguchi method"     }
+    {
+      "strategy": "Open Source Tools",
+      "area": "Software / Compute",
+      "savings_min": 70,
+      "savings_max": 90,
+      "example": "Python instead of MATLAB"
+    },
+    {
+      "strategy": "Institutional Mini-Grant",
+      "area": "Hardware",
+      "savings_min": 50,
+      "savings_max": 50,
+      "example": "Partial component funding"
+    },
+    {
+      "strategy": "Peer Collaboration",
+      "area": "Testing & Analysis",
+      "savings_min": 40,
+      "savings_max": 40,
+      "example": "Shared lab time"
+    },
+    {
+      "strategy": "Vendor Partnership",
+      "area": "Components",
+      "savings_min": 30,
+      "savings_max": 30,
+      "example": "Donated or discounted parts"
+    },
+    {
+      "strategy": "Lean Design (DoE)",
+      "area": "Experimentation",
+      "savings_min": 20,
+      "savings_max": 20,
+      "example": "Fewer runs via Taguchi method"
+    }
   ],
-
   "quiz_questions": [
     {
       "id": "q001",
       "question": "What is your estimated project budget?",
-      "options": ["Under ₹3,000", "₹3,000–₹8,000", "₹8,000–₹15,000", "Over ₹15,000"],
-      "scores":   [0, 1, 2, 3]
+      "options": [
+        "Under ₹3,000",
+        "₹3,000–₹8,000",
+        "₹8,000–₹15,000",
+        "Over ₹15,000"
+      ],
+      "scores": [
+        0,
+        1,
+        2,
+        3
+      ]
     },
     {
       "id": "q002",
       "question": "Do you have access to departmental or institutional funding?",
-      "options": ["Yes, well-supported", "Partial support available", "Aware but not applied", "No support available"],
-      "scores":   [0, 1, 2, 3]
+      "options": [
+        "Yes, well-supported",
+        "Partial support available",
+        "Aware but not applied",
+        "No support available"
+      ],
+      "scores": [
+        0,
+        1,
+        2,
+        3
+      ]
     },
     {
       "id": "q003",
       "question": "How many tools in your project need paid licenses?",
-      "options": ["None — using free tools only", "1–2 paid tools", "3–4 paid tools", "5 or more paid tools"],
-      "scores":   [0, 1, 2, 3]
+      "options": [
+        "None — using free tools only",
+        "1–2 paid tools",
+        "3–4 paid tools",
+        "5 or more paid tools"
+      ],
+      "scores": [
+        0,
+        1,
+        2,
+        3
+      ]
     },
     {
       "id": "q004",
       "question": "Have you explored government funding (AICTE, DST, UGC)?",
-      "options": ["Applied and received funds", "Aware and planning to apply", "Aware but not yet applied", "Not aware of these schemes"],
-      "scores":   [0, 1, 2, 3]
+      "options": [
+        "Applied and received funds",
+        "Aware and planning to apply",
+        "Aware but not yet applied",
+        "Not aware of these schemes"
+      ],
+      "scores": [
+        0,
+        1,
+        2,
+        3
+      ]
     },
     {
       "id": "q005",
       "question": "How would you rate your financial planning?",
-      "options": ["Detailed budget with contingency", "Basic budget prepared", "Rough estimate only", "No plan yet"],
-      "scores":   [0, 1, 2, 3]
+      "options": [
+        "Detailed budget with contingency",
+        "Basic budget prepared",
+        "Rough estimate only",
+        "No plan yet"
+      ],
+      "scores": [
+        0,
+        1,
+        2,
+        3
+      ]
     },
     {
       "id": "q006",
       "question": "Are you working collaboratively or alone?",
-      "options": ["Team of 4+ students", "Team of 2–3 students", "Working with 1 partner", "Working completely alone"],
-      "scores":   [0, 1, 2, 3]
+      "options": [
+        "Team of 4+ students",
+        "Team of 2–3 students",
+        "Working with 1 partner",
+        "Working completely alone"
+      ],
+      "scores": [
+        0,
+        1,
+        2,
+        3
+      ]
     },
     {
       "id": "q007",
       "question": "Do you use open-source data sources for your research?",
-      "options": ["Yes, primarily open-source", "Mix of free and paid", "Mostly paid or licensed data", "Not using external data"],
-      "scores":   [0, 1, 2, 0]
+      "options": [
+        "Yes, primarily open-source",
+        "Mix of free and paid",
+        "Mostly paid or licensed data",
+        "Not using external data"
+      ],
+      "scores": [
+        0,
+        1,
+        2,
+        0
+      ]
     },
     {
       "id": "q008",
       "question": "Have you considered hackathons or alumni sponsorships?",
-      "options": ["Yes, actively pursuing", "Considering it seriously", "Not yet thought about it", "Never considered this option"],
-      "scores":   [0, 1, 2, 3]
+      "options": [
+        "Yes, actively pursuing",
+        "Considering it seriously",
+        "Not yet thought about it",
+        "Never considered this option"
+      ],
+      "scores": [
+        0,
+        1,
+        2,
+        3
+      ]
     }
   ],
-
   "quiz_results": [
     {
       "level": "Low Risk",
@@ -848,7 +1175,7 @@
       "color": "#7f1d1d",
       "score_min": 19,
       "score_max": 24,
-      "advice": "Serious barriers identified. Implement the integrated framework from Section 3 urgently.",
+      "advice": "Serious barriers identified. Implement the integrated framework urgently.",
       "recommendations": [
         "Meet your faculty guide within 48 hours about funding",
         "Apply to AICTE and department fund simultaneously",
@@ -858,18 +1185,56 @@
       ]
     }
   ],
-
   "budget_categories": [
-    { "name": "Materials / Components",      "pill_class": "pAmber", "avg_cost_min": 2000,  "avg_cost_max": 20000 },
-    { "name": "Software / Licensing",        "pill_class": "pBlue",  "avg_cost_min": 5000,  "avg_cost_max": 15000 },
-    { "name": "Travel / Field Work",         "pill_class": "pTeal",  "avg_cost_min": 2000,  "avg_cost_max": 8000  },
-    { "name": "Documentation / Printing",    "pill_class": "pRed",   "avg_cost_min": 500,   "avg_cost_max": 2000  },
-    { "name": "Equipment Access",            "pill_class": "pGreen", "avg_cost_min": 1000,  "avg_cost_max": 10000 },
-    { "name": "Publication / Dissemination", "pill_class": "pRed",   "avg_cost_min": 1000,  "avg_cost_max": 5000  },
-    { "name": "Contingency",                 "pill_class": "pAmber", "avg_cost_min": 500,   "avg_cost_max": 3000  },
-    { "name": "Other",                       "pill_class": "pGray",  "avg_cost_min": 0,     "avg_cost_max": 5000  }
+    {
+      "name": "Materials / Components",
+      "pill_class": "pAmber",
+      "avg_cost_min": 2000,
+      "avg_cost_max": 20000
+    },
+    {
+      "name": "Software / Licensing",
+      "pill_class": "pBlue",
+      "avg_cost_min": 5000,
+      "avg_cost_max": 15000
+    },
+    {
+      "name": "Travel / Field Work",
+      "pill_class": "pTeal",
+      "avg_cost_min": 2000,
+      "avg_cost_max": 8000
+    },
+    {
+      "name": "Documentation / Printing",
+      "pill_class": "pRed",
+      "avg_cost_min": 500,
+      "avg_cost_max": 2000
+    },
+    {
+      "name": "Equipment Access",
+      "pill_class": "pGreen",
+      "avg_cost_min": 1000,
+      "avg_cost_max": 10000
+    },
+    {
+      "name": "Publication / Dissemination",
+      "pill_class": "pRed",
+      "avg_cost_min": 1000,
+      "avg_cost_max": 5000
+    },
+    {
+      "name": "Contingency",
+      "pill_class": "pAmber",
+      "avg_cost_min": 500,
+      "avg_cost_max": 3000
+    },
+    {
+      "name": "Other",
+      "pill_class": "pGray",
+      "avg_cost_min": 0,
+      "avg_cost_max": 5000
+    }
   ],
-
   "research_stats": {
     "students_facing_financial_stress_percent": 65,
     "average_cost_reduction_percent": 78,
