@@ -452,6 +452,12 @@ input:focus, select:focus { border-color: #2563eb; background: #fff; }
   font-size: 1.2rem;
   flex-shrink: 0;
 }
+.iconTheme-blue { background: #eff6ff; }
+.iconTheme-amber { background: #fffbeb; }
+.iconTheme-green { background: #f0fdf4; }
+.iconTheme-teal { background: #ecfeff; }
+.iconTheme-red { background: #fef2f2; }
+
 .fundName { font-weight: 600; font-size: 0.9rem; margin-bottom: 2px; }
 .fundOrg  { font-size: 0.74rem; color: #6b7280; }
 
@@ -713,11 +719,28 @@ body.dark .topbar {
   background: #020617;
 }
 
-body.dark .fundHow,
+body.dark .fundRow {
+  color: #cbd5e1;
+}
+
+body.dark .fundRow b {
+  color: #f8fafc;
+}
+
+body.dark .fundHow {
+  background: rgba(15, 23, 42, 0.6);
+}
+
 body.dark .quizOpt,
 body.dark .alert {
   background: #111827;
 }
+
+body.dark .iconTheme-blue { background: rgba(59, 130, 246, 0.2); color: #60a5fa; }
+body.dark .iconTheme-amber { background: rgba(245, 158, 11, 0.2); color: #fbbf24; }
+body.dark .iconTheme-green { background: rgba(16, 185, 129, 0.2); color: #34d399; }
+body.dark .iconTheme-teal { background: rgba(20, 184, 166, 0.2); color: #2dd4bf; }
+body.dark .iconTheme-red { background: rgba(239, 68, 68, 0.2); color: #f87171; }
 
 /* =========================
    LUCIDE ICONS
